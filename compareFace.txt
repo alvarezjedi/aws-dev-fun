@@ -1,0 +1,15 @@
+{   'FaceMatches': [],
+    'ResponseMetadata': {   'HTTPHeaders': {   'connection': 'keep-alive',
+                                               'content-length': '964',
+                                               'content-type': 'application/x-amz-json-1.1',
+                                               'date': 'Wed, 18 Oct 2017 '
+                                                       '20:18:24 GMT',
+                                               'x-amzn-requestid': '7d12affd-b441-11e7-b075-9d647d147ba2'},
+                            'HTTPStatusCode': 200,
+                            'RequestId': '7d12affd-b441-11e7-b075-9d647d147ba2',
+                            'RetryAttempts': 0},
+    'SourceImageFace': {   'BoundingBox': {   'Height': 0.9448398351669312,
+                                              'Left': 0.12222222238779068,
+                                              'Top': -0.017793593928217888,
+                                              'Width': 0.5899999737739563},
+                           'Confidence': 99.99041748046875}}
